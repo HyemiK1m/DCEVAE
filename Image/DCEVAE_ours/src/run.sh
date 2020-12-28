@@ -1,0 +1,2 @@
+python3 main.py --ur_dim 5 --ud_dim 5 --beta1 1 --beta2 40 --beta3 1 --beta4 3.2 --int M --seed 1 --gpu 1 &
+python3 main.py --ur_dim 5 --ud_dim 5 --beta1 1 --beta2 40 --beta3 1 --beta4 0.4 --int S --seed 1 --gpu 1 &
